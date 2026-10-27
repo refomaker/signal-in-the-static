@@ -1,0 +1,5 @@
+n_adjacent_links_affected,illustrative_confidence_dust_not_fault,note
+1,0.85,"ILLUSTRATIVE ONLY - fault rate 0.15 is an assumption, not measured"
+2,0.9775,"ILLUSTRATIVE ONLY - fault rate 0.15 is an assumption, not measured"
+3,0.9966,"ILLUSTRATIVE ONLY - fault rate 0.15 is an assumption, not measured"
+5,0.9999,"ILLUSTRATIVE ONLY - fault rate 0.15 is an assumption, not measured"

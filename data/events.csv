@@ -1,0 +1,4 @@
+id,date,governorates,corridor,start,end,visibility,wind_speed,wind_direction,severity_label,source
+A,2025-05-19,"Jeddah, Rabigh, Bahra, Al-Kamil, Khulais",Highway 5 (Jeddah-Rabigh section),NOT FOUND,18:00 local (stated in bulletin),qualitative: near-total loss of horizontal visibility,NOT FOUND,NOT FOUND,"severe (qualitative, per NCM wording)","NCM via SPA, 19 May 2025"
+B,2024-07-24,"Bahra (Shuaiba), Al-Lith, Al-Qunfudhah",Highway 5 (southern coastal section),NOT FOUND,21:00 local (stated in bulletin),qualitative: near-total loss; elevated wave height also noted,NOT FOUND,NOT FOUND,"severe (qualitative, per NCM wording)","NCM via SPA, 24 July 2024"
+C,2025-07-10,Jeddah,Highway 5 (Jeddah section),NOT FOUND,17:00 local (stated in bulletin),"qualitative: dust accumulation, weaker wording than A/B",NOT FOUND,NOT FOUND,"moderate (qualitative, per NCM wording)","NCM via SPA, 10 July 2025"

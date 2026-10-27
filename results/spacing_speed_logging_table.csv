@@ -1,0 +1,61 @@
+spacing_km,storm_speed_kmh,true_inter_tower_time_min,logging_interval_min,verdict
+2,20,6.0,1,USEFUL
+2,20,6.0,5,MARGINAL
+2,20,6.0,10,USELESS (storm likely passes between samples)
+2,20,6.0,15,USELESS (storm likely passes between samples)
+2,20,6.0,30,USELESS (storm likely passes between samples)
+2,40,3.0,1,USEFUL
+2,40,3.0,5,USELESS (storm likely passes between samples)
+2,40,3.0,10,USELESS (storm likely passes between samples)
+2,40,3.0,15,USELESS (storm likely passes between samples)
+2,40,3.0,30,USELESS (storm likely passes between samples)
+2,60,2.0,1,USEFUL
+2,60,2.0,5,USELESS (storm likely passes between samples)
+2,60,2.0,10,USELESS (storm likely passes between samples)
+2,60,2.0,15,USELESS (storm likely passes between samples)
+2,60,2.0,30,USELESS (storm likely passes between samples)
+5,20,15.0,1,USEFUL
+5,20,15.0,5,USEFUL
+5,20,15.0,10,MARGINAL
+5,20,15.0,15,MARGINAL
+5,20,15.0,30,USELESS (storm likely passes between samples)
+5,40,7.5,1,USEFUL
+5,40,7.5,5,MARGINAL
+5,40,7.5,10,USELESS (storm likely passes between samples)
+5,40,7.5,15,USELESS (storm likely passes between samples)
+5,40,7.5,30,USELESS (storm likely passes between samples)
+5,60,5.0,1,USEFUL
+5,60,5.0,5,MARGINAL
+5,60,5.0,10,USELESS (storm likely passes between samples)
+5,60,5.0,15,USELESS (storm likely passes between samples)
+5,60,5.0,30,USELESS (storm likely passes between samples)
+10,20,30.0,1,USEFUL
+10,20,30.0,5,USEFUL
+10,20,30.0,10,USEFUL
+10,20,30.0,15,USEFUL
+10,20,30.0,30,MARGINAL
+10,40,15.0,1,USEFUL
+10,40,15.0,5,USEFUL
+10,40,15.0,10,MARGINAL
+10,40,15.0,15,MARGINAL
+10,40,15.0,30,USELESS (storm likely passes between samples)
+10,60,10.0,1,USEFUL
+10,60,10.0,5,USEFUL
+10,60,10.0,10,MARGINAL
+10,60,10.0,15,USELESS (storm likely passes between samples)
+10,60,10.0,30,USELESS (storm likely passes between samples)
+15,20,45.0,1,USEFUL
+15,20,45.0,5,USEFUL
+15,20,45.0,10,USEFUL
+15,20,45.0,15,USEFUL
+15,20,45.0,30,MARGINAL
+15,40,22.5,1,USEFUL
+15,40,22.5,5,USEFUL
+15,40,22.5,10,USEFUL
+15,40,22.5,15,MARGINAL
+15,40,22.5,30,USELESS (storm likely passes between samples)
+15,60,15.0,1,USEFUL
+15,60,15.0,5,USEFUL
+15,60,15.0,10,MARGINAL
+15,60,15.0,15,MARGINAL
+15,60,15.0,30,USELESS (storm likely passes between samples)
